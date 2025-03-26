@@ -1,4 +1,4 @@
-## 💫 About Me:
+## About Me:
 <p align="left">
 Hey there! 👋  
 I'm Sakshi Kumar, an Electrical Engineering student at IIT (BHU) Varanasi, passionate about Artificial Intelligence, Machine Learning, and Open Source.  
